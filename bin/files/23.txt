@@ -1,0 +1,120 @@
+BEAUTY AND THE BEAST,10:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+BEAUTY AND THE BEAST,12:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+KONG SKULL ISLAND,15:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+KONG SKULL ISLAND,18:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+KONG SKULL ISLAND,21:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+LA LA LAND,10:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+LA LA LAND,13:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+MOONLIGHT,16:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+MOONLIGHT,18:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+KONG SKULL ISLAND,20:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+BEAUTY AND THE BEAST,10:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+BEAUTY AND THE BEAST,13:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+LOGAN,15:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+LOGAN,18:00
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
+KONG SKULL ISLAND,20:30
+Child Ticket: 0
+Adult Ticket: 0
+Senior Ticket: 0
+Student Ticket: 0
+Total Number: 0
+Total Sales: 0.0
+
